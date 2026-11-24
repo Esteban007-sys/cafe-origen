@@ -115,4 +115,4 @@ A medida que completes cada minirreto, actualiza `bitacora.md` explicando qué p
 3. **Respeta la técnica de cada etapa**:
    - En el **Minirreto 2**, resuelve las funciones usando ciclos `for...of`.
    - En el **Minirreto 3**, resuelve las funciones aplicando métodos de arreglos (`.filter`, `.map`, `.reduce`, `.sort`, `.slice`).
-4. **No cambies los nombres de las funciones exportadas**: `src/reporte.js` importa las funciones por su nombre exacto desde `src/analitica.js`..
+4. **No cambies los nombres de las funciones exportadas**: `src/reporte.js` importa las funciones por su nombre exacto desde `src/analitica.js`.
