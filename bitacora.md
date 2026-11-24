@@ -55,3 +55,4 @@
 
 - **¿Cómo comprobaste que el arreglo `ventas` original no fue modificado?**: Verificando al final de `src/reporte.js` que `ventas.length === 12` sigue siendo `true`, que el primer elemento conserva `ventas[0].id === 1`, y que registros como `id: 5` mantienen `ciudad: "medellín"` y `id: 8` mantiene `cantidad: 0` intactos.
 - **Comando para ejecutar el reporte**: `node src/reporte.js`
+.
